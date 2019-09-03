@@ -1,0 +1,56 @@
+@string/appbar_scrolling_view_behavior;/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/rootlayout.xml
+@string/appbar_scrolling_view_behavior;/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/shellcontent.xml
+@string/appbar_scrolling_view_behavior;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/rootlayout.xml
+@string/appbar_scrolling_view_behavior;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/shellcontent.xml
+adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+alpha;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/anim/enterfromleft.xml
+alpha;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/anim/exittoleft.xml
+android.support.design.widget.AppBarLayout;/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/flyoutcontent.xml
+android.support.design.widget.AppBarLayout;/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/rootlayout.xml
+android.support.design.widget.AppBarLayout;/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/shellcontent.xml
+android.support.design.widget.AppBarLayout;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/flyoutcontent.xml
+android.support.design.widget.AppBarLayout;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/rootlayout.xml
+android.support.design.widget.AppBarLayout;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/shellcontent.xml
+android.support.design.widget.BottomNavigationView;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/rootlayout.xml
+android.support.design.widget.CoordinatorLayout;/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/shellcontent.xml
+android.support.design.widget.CoordinatorLayout;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/rootlayout.xml
+android.support.design.widget.CoordinatorLayout;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/shellcontent.xml
+android.support.design.widget.TabLayout;/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/rootlayout.xml
+android.support.design.widget.TabLayout;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/rootlayout.xml
+android.support.design.widget.TabLayout;obj/Debug/res/layout/tabbar.xml
+android.support.v4.widget.NestedScrollView;/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/rootlayout.xml
+android.support.v4.widget.NestedScrollView;/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/shellcontent.xml
+android.support.v4.widget.NestedScrollView;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/rootlayout.xml
+android.support.v4.widget.NestedScrollView;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/shellcontent.xml
+android.support.v7.widget.RecyclerView;/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/flyoutcontent.xml
+android.support.v7.widget.RecyclerView;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/flyoutcontent.xml
+android.support.v7.widget.Toolbar;/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/rootlayout.xml
+android.support.v7.widget.Toolbar;/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/shellcontent.xml
+android.support.v7.widget.Toolbar;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/rootlayout.xml
+android.support.v7.widget.Toolbar;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/shellcontent.xml
+android.support.v7.widget.Toolbar;obj/Debug/res/layout/toolbar.xml
+background;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+background;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+color;obj/Debug/res/values/colors.xml
+foreground;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+foreground;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+FrameLayout;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/bottomtablayout.xml
+item;obj/Debug/res/values/styles.xml
+LinearLayout;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/layout/bottomtablayout.xml
+resources;obj/Debug/res/values/colors.xml
+resources;obj/Debug/res/values/styles.xml
+set;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/anim/enterfromleft.xml
+set;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/anim/enterfromright.xml
+set;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/anim/exittoleft.xml
+set;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/anim/exittoright.xml
+style;obj/Debug/res/values/styles.xml
+translate;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/anim/enterfromleft.xml
+translate;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/anim/enterfromright.xml
+translate;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/anim/exittoleft.xml
+translate;/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.Android/obj/Debug/lp/40/jl/res/anim/exittoright.xml

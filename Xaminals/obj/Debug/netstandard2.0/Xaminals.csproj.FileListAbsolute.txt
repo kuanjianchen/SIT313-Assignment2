@@ -1,0 +1,36 @@
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/bin/Debug/netstandard2.0/Xaminals.deps.json
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/bin/Debug/netstandard2.0/Xaminals.dll
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/bin/Debug/netstandard2.0/Xaminals.pdb
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Controls/FlyoutHeader.xaml.g.cs
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Views/FruitDetailPage.xaml.g.cs
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Views/FruitsPage.xaml.g.cs
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Views/SignUpPage.xaml.g.cs
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Xaminals.csproj.CoreCompileInputs.cache
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Xaminals.AssemblyInfoInputs.cache
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Xaminals.AssemblyInfo.cs
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Xaminals.dll
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Xaminals.pdb
+/Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Xaminals.csprojAssemblyReference.cache
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/bin/Debug/netstandard2.0/Xaminals.deps.json
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/bin/Debug/netstandard2.0/Xaminals.dll
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/bin/Debug/netstandard2.0/Xaminals.pdb
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Xaminals.csprojAssemblyReference.cache
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Controls/FlyoutHeader.xaml.g.cs
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Views/FruitDetailPage.xaml.g.cs
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Views/FruitsPage.xaml.g.cs
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Views/SignUpPage.xaml.g.cs
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Xaminals.csproj.CoreCompileInputs.cache
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Xaminals.AssemblyInfoInputs.cache
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Xaminals.AssemblyInfo.cs
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Xaminals.dll
+/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/Debug/netstandard2.0/Xaminals.pdb

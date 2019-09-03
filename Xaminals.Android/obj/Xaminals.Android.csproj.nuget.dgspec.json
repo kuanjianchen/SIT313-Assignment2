@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/Xaminals.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/Xaminals.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/Xaminals.Android.csproj",
+        "projectName": "Xaminals.Android",
+        "projectPath": "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/Xaminals.Android.csproj",
+        "packagesPath": "/Users/anderskuang/.nuget/packages/",
+        "outputPath": "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/anderskuang/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {
+              "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/Xaminals.csproj": {
+                "projectPath": "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/Xaminals.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/Xaminals.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/Xaminals.csproj",
+        "projectName": "Xaminals",
+        "projectPath": "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/Xaminals.csproj",
+        "packagesPath": "/Users/anderskuang/.nuget/packages/",
+        "outputPath": "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/anderskuang/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
