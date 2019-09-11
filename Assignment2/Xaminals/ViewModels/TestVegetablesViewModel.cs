@@ -7,7 +7,7 @@ using Xaminals.Models;
 
 namespace Xaminals.ViewModels
 {
-    public class VegetablesViewModel
+    public class TestVegetablesViewModel
     {
         public ObservableCollection<Grocery> SearchResults { get; private set; }
 
@@ -19,14 +19,14 @@ namespace Xaminals.ViewModels
             {
                 SearchResults = null;
             }
-            //else
-            //{
-            //    var filteredItems = BearData.Bears
-            //        .Where(bear => bear.Name.ToLower()
-            //        .Contains(query.ToLower()))
-            //        .ToList();
-            //    SearchResults = new ObservableCollection<Grocery>(filteredItems);
-            //}
+            else
+            {
+                var filteredItems = VegetableData.Vegetables
+                    .Where(vegetable => vegetable.Name.ToLower()
+                    .Contains(query.ToLower()))
+                    .ToList();
+                SearchResults = new ObservableCollection<Grocery>(filteredItems);
+            }
         }
     }
 }

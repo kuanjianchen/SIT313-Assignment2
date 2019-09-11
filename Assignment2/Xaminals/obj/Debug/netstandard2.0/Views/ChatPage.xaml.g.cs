@@ -8,25 +8,25 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Xaminals.Views.LoginPage.xaml", "Views/LoginPage.xaml", typeof(global::Xaminals.Views.LoginPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Xaminals.Views.ChatPage.xaml", "Views/ChatPage.xaml", typeof(global::Xaminals.Views.ChatPage))]
 
 namespace Xaminals.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views/LoginPage.xaml")]
-    public partial class LoginPage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views/ChatPage.xaml")]
+    public partial class ChatPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.Entry usernameEntry;
+        private global::Xaminals.Controls.ExtendedListView ChatList;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.Entry passwordEntry;
+        private global::Xaminals.ContentViews.ChatInputBarView chatInput;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(LoginPage));
-            usernameEntry = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "usernameEntry");
-            passwordEntry = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "passwordEntry");
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ChatPage));
+            ChatList = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xaminals.Controls.ExtendedListView>(this, "ChatList");
+            chatInput = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xaminals.ContentViews.ChatInputBarView>(this, "chatInput");
         }
     }
 }

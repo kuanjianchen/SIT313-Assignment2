@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Xaminals.Views.SignUpPage.xaml", "Views/SignUpPage.xaml", typeof(global::Xaminals.Views.SignUpPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Xaminals.Views.VegetableDetailPage.xaml", "Views/VegetableDetailPage.xaml", typeof(global::Xaminals.Views.VegetableDetailPage))]
 
 namespace Xaminals.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views/SignUpPage.xaml")]
-    public partial class SignUpPage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views/VegetableDetailPage.xaml")]
+    public partial class VegetableDetailPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(SignUpPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(VegetableDetailPage));
         }
     }
 }

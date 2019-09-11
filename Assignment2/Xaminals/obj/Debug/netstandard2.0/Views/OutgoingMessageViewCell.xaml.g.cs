@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Xaminals.Views.SignUpPage.xaml", "Views/SignUpPage.xaml", typeof(global::Xaminals.Views.SignUpPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Xaminals.Views.OutgoingMessageViewCell.xaml", "Views/OutgoingMessageViewCell.xaml", typeof(global::Xaminals.Views.OutgoingMessageViewCell))]
 
 namespace Xaminals.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views/SignUpPage.xaml")]
-    public partial class SignUpPage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views/OutgoingMessageViewCell.xaml")]
+    public partial class OutgoingMessageViewCell : global::Xamarin.Forms.ViewCell {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(SignUpPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(OutgoingMessageViewCell));
         }
     }
 }
