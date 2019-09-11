@@ -23,7 +23,7 @@ namespace Xaminals.Controls
             else
             {
                 ItemsSource = Groceries
-                    .Where(grocery => grocery.Name.ToLower().Contains(newValue.ToLower()))
+                    .Where(animal => animal.Name.ToLower().Contains(newValue.ToLower()))
                     .ToList<Grocery>();
             }
         }

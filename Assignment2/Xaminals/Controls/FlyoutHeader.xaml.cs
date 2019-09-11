@@ -2,7 +2,7 @@
 
 namespace Xaminals.Controls
 {
-    public partial class FlyoutHeader : ContentView
+    public partial class FlyoutHeader : Xamarin.Forms.ContentView
     {
         public FlyoutHeader()
         {
