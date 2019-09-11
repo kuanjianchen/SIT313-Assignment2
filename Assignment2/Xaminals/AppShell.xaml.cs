@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Forms;
 using Xaminals.Data;
+using Xaminals.Helpers;
 using Xaminals.Views;
 
 namespace Xaminals
@@ -18,39 +19,58 @@ namespace Xaminals
         public ICommand HelpCommand => new Command<string>((url) => Device.OpenUri(new Uri(url)));
         public ICommand RandomPageCommand => new Command(async () => await NavigateToRandomPageAsync());
 
-       
 
         public AppShell()
         {
             InitializeComponent();
             RegisterRoutes();
+
             BindingContext = this;
+        }
+
+         void SignOutHandle_Clicked(object sender, System.EventArgs e)
+        {
+            Settings.ClearAllData();
+             Application.Current.MainPage = new NavigationPage(new LoginPage());
         }
 
         void RegisterRoutes()
         {
             routes.Add("fruitdetails", typeof(FruitDetailPage));
-           
+            routes.Add("vegetabledetails", typeof(VegetableDetailPage));
+            routes.Add("userprofile", typeof(UserProfilePage));
+            routes.Add("chat", typeof(ChatPage));
+
+
             foreach (var item in routes)
             {
                 Routing.RegisterRoute(item.Key, item.Value);
             }
         }
 
+        async void ShowEmployeeDetails(int selectedUserID)
+        {
+            string username = "1";
+            await Shell.Current.GoToAsync($"userprofile?id={username}");
+        }
+
         async Task NavigateToRandomPageAsync()
         {
             string destinationRoute = routes.ElementAt(rand.Next(0, routes.Count)).Key;
-            string fruitName = null;
+            string groceryName = null;
 
             switch (destinationRoute)
             {
                 case "fruitdetails":
-                    fruitName = FruitData.Fruits.ElementAt(rand.Next(0, FruitData.Fruits.Count)).Name;
+                    groceryName = FruitData.Fruits.ElementAt(rand.Next(0, FruitData.Fruits.Count)).Name;
+                    break;
+                case "vegetabledetails":
+                    groceryName = FruitData.Fruits.ElementAt(rand.Next(0, VegetableData.Vegetables.Count)).Name;
                     break;
             }
 
             ShellNavigationState state = Shell.Current.CurrentState;
-            await Shell.Current.GoToAsync($"{state.Location}/{destinationRoute}?name={fruitName}");
+            await Shell.Current.GoToAsync($"{state.Location}/{destinationRoute}?name={groceryName}");
             Shell.Current.FlyoutIsPresented = false;
         }
 

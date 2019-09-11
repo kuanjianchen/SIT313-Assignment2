@@ -1,5 +1,6 @@
 ﻿using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Xaminals.Helpers;
 using Xaminals.Views;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
@@ -7,21 +8,21 @@ namespace Xaminals
 {
     public partial class App : Application
     {
-        public static bool IsUserLoggedIn { get; set; }
+       
         public App()
         {
             InitializeComponent();
 
-            if (!IsUserLoggedIn)
+            // Check is the app running for the first time         
+            if (IsFirstTime == "yes")
             {
+
                 MainPage = new NavigationPage(new LoginPage());
+
             }
             else
             {
-
                 MainPage = new AppShell();
-
-
             }
         }
 
@@ -41,6 +42,19 @@ namespace Xaminals
         protected override void OnResume()
         {
             // Handle when your app resumes
+        }
+
+
+        public string IsFirstTime
+        {
+            get { return Settings.GeneralSettings; }
+            set
+            {
+                if (Settings.GeneralSettings == value)
+                    return;
+                Settings.GeneralSettings = value;
+                OnPropertyChanged();
+            }
         }
     }
 }

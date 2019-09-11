@@ -35,6 +35,14 @@
             <Setter Property="Shell.BackgroundColor" 
                     Value="#689F39" />
         </Style> 
+        
+        <Style x:Key="VegetablesShell" 
+               TargetType="Element"
+               BasedOn="{StaticResource BaseStyle}">
+            <Setter Property="Shell.BackgroundColor" 
+                    Value="#689F39" />
+        </Style>
+        
         <Style x:Key="AboutShell" 
                TargetType="Element" 
                BasedOn="{StaticResource BaseStyle}">
@@ -103,11 +111,13 @@
         </DataTemplate>
     </Shell.MenuItemTemplate>-->
     
-    <FlyoutItem Route="grocery"
-                Title="MY Grocery Store"
+    
+    <FlyoutItem Title="Grocery" 
+                Route="grocery"
                 FlyoutDisplayOptions="AsMultipleItems">
-        <Tab Title="Fresh Food"
-             Route="domestic"
+        
+<!--        <Tab Title="Fresh Food"
+             Route="freshfood"
              Icon="paw.png">
             <ShellContent Route="Fruits"
                           Style="{StaticResource DomesticShell}"
@@ -115,17 +125,23 @@
                           Icon="cat.png"
                           ContentTemplate="{DataTemplate views:FruitsPage}" />
             
-            <!--<ShellContent Route="Vegetables"
+            <ShellContent Route="vegetables"
                           Style="{StaticResource DomesticShell}"
-                          Title="Fruits"
+                          Title="Vegetables"
                           Icon="dog.png"
-                          ContentTemplate="{DataTemplate views:FruitsPage}" />-->
-        </Tab>
-       <ShellContent Route="fruits"
+                          ContentTemplate="{DataTemplate views:VegetablePage}" />
+        </Tab>-->
+       <ShellContent Route="fruits--"
                       Style="{StaticResource FruitsShell}"
                       Title="Fruits"
                       Icon="monkey.png"
                       ContentTemplate="{DataTemplate views:FruitsPage}" />
+        
+         <ShellContent Route="vegetables"
+                      Style="{StaticResource VegetablesShell}"
+                      Title="Vegetables"
+                      Icon="monkey.png"
+                      ContentTemplate="{DataTemplate views:VegetablesPage}" />
        
     </FlyoutItem>
     
@@ -134,7 +150,21 @@
                   Title="About"
                   Icon="info.png"
                   ContentTemplate="{DataTemplate views:AboutPage}" />
+    
+    <ShellContent Route="userProfile"
+                  Style="{StaticResource AboutShell}"
+                  Title="User Profile"
+                  Icon="info.png"
+                  ContentTemplate="{DataTemplate views:UserProfilePage}" />
                   
+       <ShellContent Route="chat"
+                  Style="{StaticResource AboutShell}"
+                  Title="Chat With Support"
+                  Icon="random.png"
+                  ContentTemplate="{DataTemplate views:ChatPage}" />
+                  
+    
+    
     <MenuItem Text="Random"
               Icon="random.png"
               Command="{Binding RandomPageCommand}" />
@@ -144,6 +174,11 @@
               Icon="help.png"
               Command="{Binding HelpCommand}"
               CommandParameter="https://www.google.com" />
+    
+     <MenuItem Text="Sign out"
+              Icon="help.png"
+               Clicked="SignOutHandle_Clicked"
+              />
     
    
     
