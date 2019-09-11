@@ -4,9 +4,8 @@
              xmlns:controls="clr-namespace:Xaminals.Controls"
              xmlns:data="clr-namespace:Xaminals.Data"
              xmlns:views="clr-namespace:Xaminals.Views"
-             x:Class="Xaminals.Views.FruitsPage"
-             Title="Fruits">
-    
+             x:Class="Xaminals.Views.VegetablesPage"
+             Title="Vegetables">
     <ContentPage.Resources>
         <Style TargetType="Grid">
             <Setter Property="VisualStateManager.VisualStateGroups">
@@ -25,19 +24,35 @@
         </Style>
     </ContentPage.Resources>
     
-    
-    <Shell.SearchHandler>
-        <controls:GrocerySearchHandler Placeholder="Enter search term"
-                                       
+  <!--  <Shell.SearchHandler>
+        <controls:FruitSearchHandler Placeholder="Enter search term"
                                       ShowsResults="true"
-                                      ItemTemplate="{StaticResource GrocerySearchTemplate}"
-                                      Groceries="{x:Static data:FruitData.Fruits}"
-                                      SelectedItemNavigationTarget="{x:Type views:FruitDetailPage}" />
-    </Shell.SearchHandler>
+                                      DisplayMemberName="Name" />
+    </Shell.SearchHandler>-->
+    
+    
     
     <CollectionView Margin="20"
-                    ItemsSource="{x:Static data:FruitData.Fruits}"
+                    ItemsSource="{x:Static data:VegetableData.Vegetables}"
                     ItemTemplate="{StaticResource GroceryTemplate}"
                     SelectionMode="Single"
                     SelectionChanged="OnCollectionViewSelectionChanged" />
+    
+    
+    
+ <Shell.SearchHandler>
+    <controls:GrocerySearchHandler Placeholder="Enter search term"
+                                      ShowsResults="true"
+                                      ItemTemplate="{StaticResource GrocerySearchTemplate}"
+                                      Groceries="{x:Static data:VegetableData.Vegetables}"
+                                      SelectedItemNavigationTarget="{x:Type views:VegetableDetailPage}" />
+   </Shell.SearchHandler>
+    
+    
+    
+      <CollectionView Margin="20"
+                    ItemsSource="{x:Static data:VegetableData.Vegetables}"
+                    ItemTemplate="{StaticResource GroceryTemplate}"
+                    SelectionMode="Single"
+                    SelectionChanged="OnCollectionViewSelectionChanged" />     
 </ContentPage>

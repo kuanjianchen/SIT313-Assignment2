@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             Title="Profile"
+             x:Class="Xaminals.Views.UserProfilePage">
+    <ContentPage.Content>
+          <ScrollView>
+        <StackLayout Spacing="12">
+        
+            
+         <Entry x:Name="txtUserName" Text="{Binding UserName}" IsReadOnly="true" HeightRequest="40" BackgroundColor="White" Placeholder="UserName" HorizontalOptions="FillAndExpand"/>
+          
+            
+        <Entry x:Name="txtEmail" Text="{Binding Email}" BackgroundColor="White"  
+           HeightRequest="40" Placeholder="Email"  HorizontalOptions="FillAndExpand"/>
+    
+            
+        <Entry x:Name="txtName"  Text="{Binding Name}" HeightRequest="40" BackgroundColor="White" Placeholder="Full Name" HorizontalOptions="FillAndExpand"/>
+               
+        <Picker x:Name="GenderPicker" SelectedItem="{Binding Gender}" Title="Gender" BackgroundColor="White" HeightRequest="40" HorizontalOptions="FillAndExpand">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Male</x:String>
+                        <x:String>FeMale</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            
+       <DatePicker x:Name="txtBirthDate" Date="{Binding BirthDate}" BackgroundColor="White" HeightRequest="40" HorizontalOptions="FillAndExpand"/>
+        
+       <Entry  x:Name="txtMobileNumber" Keyboard="Telephone" Text="{Binding PhoneNumber}" BackgroundColor="White" HeightRequest="40" Placeholder="Phone Number" HorizontalOptions="FillAndExpand"/>
+       
+       <Entry x:Name="txtAddress" Text="{Binding ContactAddress}" BackgroundColor="White"  HeightRequest="40"
+               Placeholder="Address"  HorizontalOptions="FillAndExpand"/>
+    
+        <Button Text="Update" BorderRadius="0" Margin="0,30,0,0" FontAttributes="Bold" TextColor="White" BackgroundColor="#5989B5" Command="{Binding UpdateUserCommand}" />  
+    </StackLayout>
+     </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -3,15 +3,22 @@
              x:Class="Xaminals.Views.SignUpPage"
              Title="Sign Up">
     <ContentPage.Content>
-        <StackLayout VerticalOptions="StartAndExpand">
-            <Label Text="Username" />
-            <Entry x:Name="usernameEntry" Placeholder="username" />
-            <Label Text="Password" />
-            <Entry x:Name="passwordEntry" IsPassword="true" />
-            <Label Text="Email address" />
-            <Entry x:Name="emailEntry" />
-            <Button Text="Sign Up" Clicked="OnSignUpButtonClicked" />
-            <Label x:Name="messageLabel" />
-        </StackLayout>
+         <ScrollView>    
+        <StackLayout Padding="40,60,40,0" VerticalOptions="FillAndExpand" Spacing="70">    
+            <Label Text="MY Grocery Store" TextColor="Green" HorizontalOptions="CenterAndExpand" FontSize="30"/>    
+            <StackLayout Spacing="20">    
+            <Entry Placeholder="User Name" Text="{Binding UserName}" HeightRequest="40" HorizontalOptions="FillAndExpand"  TextColor="Gray" BackgroundColor="White"/>    
+            <Entry Placeholder="Phone Number" Text="{Binding PhoneNumber}" Keyboard="Telephone" HeightRequest="40" HorizontalOptions="FillAndExpand"  TextColor="Gray" BackgroundColor="White"/>    
+            <Entry Placeholder="Email" Text="{Binding Email}" HeightRequest="40" Keyboard="Email" HorizontalOptions="FillAndExpand"  TextColor="Gray" BackgroundColor="White"/>    
+            <Entry Placeholder="Password" IsPassword="true" Text="{Binding Password}" HeightRequest="40" HorizontalOptions="FillAndExpand"  TextColor="Gray" BackgroundColor="White"/>    
+            <Entry Placeholder="ConfirmPassword" IsPassword="true" Text="{Binding ConfirmPassword}" HeightRequest="40" HorizontalOptions="FillAndExpand"  TextColor="Gray" BackgroundColor="White"/>    
+            <Button Text="Register" 
+                     Command="{Binding RegisterCommand}" 
+                    Style="{StaticResource buttonStyle}"
+                    />    
+            </StackLayout>    
+        </StackLayout>    
+            </ScrollView>    
+
     </ContentPage.Content>
 </ContentPage>

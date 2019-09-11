@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
-             x:Class="Xaminals.Views.FruitDetailPage"
-             Title="Fruit Details">
-
-  <!--  <Shell.BackButtonBehavior>
+             x:Class="Xaminals.Views.VegetableDetailPage"
+             Title="Vegetable Details">
+    
+    <!--<Shell.BackButtonBehavior>
         <BackButtonBehavior Command="{Binding BackCommand}"
                             BindingContext="{Binding Source={x:Reference self}, Path=BindingContext}"
                             IconOverride="back.png" />   
@@ -27,5 +27,3 @@
         </StackLayout>
     </ScrollView>
 </ContentPage>
-
-
