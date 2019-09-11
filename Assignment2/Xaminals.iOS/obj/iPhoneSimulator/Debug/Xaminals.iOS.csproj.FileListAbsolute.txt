@@ -80,85 +80,179 @@
 /Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.csproj.CopyComplete
 /Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.exe
 /Users/faizan/Downloads/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.pdb
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xaminals.iOS.exe
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xaminals.iOS.pdb
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xaminals.dll
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xaminals.pdb
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.csprojAssemblyReference.cache
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.csproj.CoreCompileInputs.cache
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.csproj.CopyComplete
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.exe
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.pdb
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/ibtool/_BundleResourceWithLogicalName.items
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/actool/_PartialAppManifest.items
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/actool/_BundleResourceWithLogicalName.items
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/coremlc/_PartialAppManifest.items
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/coremlc/_BundleResourceWithLogicalName.items
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/bear.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/bear@2x.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/cat.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/cat@2x.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/dog.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/dog@2x.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/elephant.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/elephant@2x.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/help.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/help@2x.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/info.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/info@2x.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/monkey.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/monkey@2x.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/paw.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/paw@2x.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/xamarin_logo.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/xamarin_logo@2x.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/xamarin_logo@3x.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/random.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/random@2x.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/3bar.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/3bar@2x.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/back.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/back@2x.png
-/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.4/optimized/
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xaminals.iOS.exe
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xaminals.iOS.pdb
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/FluentValidation.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.Platform.XamarinIOS.Unified.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xaminals.dll
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xaminals.pdb
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.csprojAssemblyReference.cache
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.csproj.CoreCompileInputs.cache
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.csproj.CopyComplete
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.exe
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.pdb
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/actool/_PartialAppManifest.items
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/actool/_BundleResourceWithLogicalName.items
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/coremlc/_PartialAppManifest.items
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/bear.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/bear@2x.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/cat.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/cat@2x.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/dog.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/dog@2x.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/elephant.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/elephant@2x.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/help.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/help@2x.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/info.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/info@2x.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/monkey.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/monkey@2x.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/paw.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/paw@2x.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/xamarin_logo.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/xamarin_logo@2x.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/xamarin_logo@3x.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/random.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/random@2x.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/3bar.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/3bar@2x.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/back.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/back@2x.png
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-12.4/optimized/
+/Users/faizan/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/KeyboardOverlap.Forms.Plugin.iOSUnified.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xaminals.iOS.exe
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xaminals.iOS.pdb
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/FluentValidation.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.Platform.XamarinIOS.Unified.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/KeyboardOverlap.Forms.Plugin.iOSUnified.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xaminals.dll
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/bin/iPhoneSimulator/Debug/Xaminals.pdb
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/actool/_PartialAppManifest.items
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/actool/_BundleResourceWithLogicalName.items
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/coremlc/_PartialAppManifest.items
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/bear.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/bear@2x.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/cat.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/cat@2x.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/dog.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/dog@2x.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/elephant.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/elephant@2x.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/help.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/help@2x.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/info.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/info@2x.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/monkey.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/monkey@2x.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/paw.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/paw@2x.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/xamarin_logo.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/xamarin_logo@2x.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/xamarin_logo@3x.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/random.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/random@2x.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/3bar.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/3bar@2x.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/back.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/back@2x.png
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.csprojAssemblyReference.cache
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.csproj.CoreCompileInputs.cache
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.csproj.CopyComplete
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.exe
+/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/iPhoneSimulator/Debug/Xaminals.iOS.pdb

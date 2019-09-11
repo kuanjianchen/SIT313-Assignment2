@@ -42,3 +42,7 @@ Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
 Xaminals
+FluentValidation
+SQLite.Net
+SQLite.Net.Platform.XamarinAndroid
+Xamarin.Essentials

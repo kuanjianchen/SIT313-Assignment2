@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/Xaminals.Android.csproj": {}
+    "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.Android/Xaminals.Android.csproj": {}
   },
   "projects": {
-    "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/Xaminals.Android.csproj": {
+    "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.Android/Xaminals.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/Xaminals.Android.csproj",
+        "projectUniqueName": "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.Android/Xaminals.Android.csproj",
         "projectName": "Xaminals.Android",
-        "projectPath": "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/Xaminals.Android.csproj",
+        "projectPath": "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.Android/Xaminals.Android.csproj",
         "packagesPath": "/Users/anderskuang/.nuget/packages/",
-        "outputPath": "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals.Android/obj/",
+        "outputPath": "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/Xaminals.csproj": {
-                "projectPath": "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/Xaminals.csproj"
+              "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals/Xaminals.csproj": {
+                "projectPath": "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals/Xaminals.csproj"
               }
             }
           }
@@ -36,22 +36,30 @@
       "frameworks": {
         "monoandroid90": {
           "dependencies": {
+            "SQLite.Net-PCL": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.1.0.555618, )"
+              "version": "[4.2.0.709249, )"
             }
           }
         }
       }
     },
-    "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/Xaminals.csproj": {
+    "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals/Xaminals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/Xaminals.csproj",
+        "projectUniqueName": "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals/Xaminals.csproj",
         "projectName": "Xaminals",
-        "projectPath": "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/Xaminals.csproj",
+        "projectPath": "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals/Xaminals.csproj",
         "packagesPath": "/Users/anderskuang/.nuget/packages/",
-        "outputPath": "/Users/anderskuang/Desktop/313 assignment2/Xamarin_Forms___Xaminals/Xaminals/obj/",
+        "outputPath": "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -79,15 +87,31 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "SQLite.Net-PCL": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "SQLite.Net.Core-PCL": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.1.0.555618, )"
+              "version": "[4.2.0.709249, )"
             }
           },
           "imports": [
