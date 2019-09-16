@@ -31,3 +31,9 @@ That is some issues occur when upload the coding to the old GitHub, then i chang
 - SQLite database (IOS, Android)
 - User profile (IOS, Android)
 - Fill up the vegetable page item details (IOS, Android)
+
+# Week 9
+- Chat page (IOS, Android)
+- In the vegetable page, the search system only can search out the vegetable items (IOS, Android)
+- In the fruit page, the seach system only can seach out the fruit items (IOS, Android)
+- The search system can display the item's picture (IOS, Android)
