@@ -134,13 +134,13 @@
        <ShellContent Route="fruits--"
                       Style="{StaticResource FruitsShell}"
                       Title="Fruits"
-                      Icon="monkey.png"
+                      Icon="fruits.png"
                       ContentTemplate="{DataTemplate views:FruitsPage}" />
         
          <ShellContent Route="vegetables"
                       Style="{StaticResource VegetablesShell}"
                       Title="Vegetables"
-                      Icon="monkey.png"
+                      Icon="vegetables.png"
                       ContentTemplate="{DataTemplate views:VegetablesPage}" />
        
     </FlyoutItem>
@@ -154,21 +154,21 @@
     <ShellContent Route="userProfile"
                   Style="{StaticResource AboutShell}"
                   Title="User Profile"
-                  Icon="info.png"
+                  Icon="user.png"
                   ContentTemplate="{DataTemplate views:UserProfilePage}" />
                   
        <ShellContent Route="chat"
                   Style="{StaticResource AboutShell}"
                   Title="Chat With Support"
-                  Icon="random.png"
+                  Icon="customerservice.png"
                   ContentTemplate="{DataTemplate views:ChatPage}" />
                   
     
     
-    <MenuItem Text="Random"
+   <!-- <MenuItem Text="Random"
               Icon="random.png"
               Command="{Binding RandomPageCommand}" />
-    
+    -->
     
     <MenuItem Text="Help"
               Icon="help.png"
@@ -176,7 +176,7 @@
               CommandParameter="https://www.google.com" />
     
      <MenuItem Text="Sign out"
-              Icon="help.png"
+              Icon="logout.png"
                Clicked="SignOutHandle_Clicked"
               />
     

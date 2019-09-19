@@ -1394,11 +1394,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/Xaminals.iOS.csproj",
+      "projectUniqueName": "/Users/anderskuang/Documents/GitHub/SIT313-Assignment2/Assignment2/Xaminals.iOS/Xaminals.iOS.csproj",
       "projectName": "Xaminals.iOS",
-      "projectPath": "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/Xaminals.iOS.csproj",
+      "projectPath": "/Users/anderskuang/Documents/GitHub/SIT313-Assignment2/Assignment2/Xaminals.iOS/Xaminals.iOS.csproj",
       "packagesPath": "/Users/anderskuang/.nuget/packages/",
-      "outputPath": "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals.iOS/obj/",
+      "outputPath": "/Users/anderskuang/Documents/GitHub/SIT313-Assignment2/Assignment2/Xaminals.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1413,8 +1413,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals/Xaminals.csproj": {
-              "projectPath": "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals/Xaminals.csproj"
+            "/Users/anderskuang/Documents/GitHub/SIT313-Assignment2/Assignment2/Xaminals/Xaminals.csproj": {
+              "projectPath": "/Users/anderskuang/Documents/GitHub/SIT313-Assignment2/Assignment2/Xaminals/Xaminals.csproj"
             }
           }
         }

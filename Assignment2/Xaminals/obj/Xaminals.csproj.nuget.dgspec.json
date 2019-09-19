@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals/Xaminals.csproj": {}
+    "/Users/anderskuang/Documents/GitHub/SIT313-Assignment2/Assignment2/Xaminals/Xaminals.csproj": {}
   },
   "projects": {
-    "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals/Xaminals.csproj": {
+    "/Users/anderskuang/Documents/GitHub/SIT313-Assignment2/Assignment2/Xaminals/Xaminals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals/Xaminals.csproj",
+        "projectUniqueName": "/Users/anderskuang/Documents/GitHub/SIT313-Assignment2/Assignment2/Xaminals/Xaminals.csproj",
         "projectName": "Xaminals",
-        "projectPath": "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals/Xaminals.csproj",
+        "projectPath": "/Users/anderskuang/Documents/GitHub/SIT313-Assignment2/Assignment2/Xaminals/Xaminals.csproj",
         "packagesPath": "/Users/anderskuang/.nuget/packages/",
-        "outputPath": "/Users/anderskuang/Downloads/XamarinFormsXaminals2/Xaminals/obj/",
+        "outputPath": "/Users/anderskuang/Documents/GitHub/SIT313-Assignment2/Assignment2/Xaminals/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

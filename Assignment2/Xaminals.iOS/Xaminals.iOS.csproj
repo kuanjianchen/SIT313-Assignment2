@@ -201,5 +201,10 @@
     <BundleResource Include="Resources\back.png" />
     <BundleResource Include="Resources\back%402x.png" />
     <BundleResource Include="Resources\GroceryLogo.jpg" />
+    <BundleResource Include="Resources\customerservice.png" />
+    <BundleResource Include="Resources\fruits.png" />
+    <BundleResource Include="Resources\logout.png" />
+    <BundleResource Include="Resources\user.png" />
+    <BundleResource Include="Resources\vegetables.png" />
   </ItemGroup>
 </Project>

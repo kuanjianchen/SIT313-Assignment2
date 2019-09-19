@@ -100,6 +100,11 @@
     <AndroidResource Include="Resources\drawable\random.png" />
     <AndroidResource Include="Resources\drawable\back.png" />
     <AndroidResource Include="Resources\drawable\GroceryLogo.jpg" />
+    <AndroidResource Include="Resources\drawable\customerservice.png" />
+    <AndroidResource Include="Resources\drawable\fruits.png" />
+    <AndroidResource Include="Resources\drawable\logout.png" />
+    <AndroidResource Include="Resources\drawable\user.png" />
+    <AndroidResource Include="Resources\drawable\vegetables.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable-hdpi\" />
