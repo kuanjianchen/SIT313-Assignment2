@@ -4,23 +4,17 @@ That is some issues occur when upload the coding to the old GitHub, then i chang
 
 # Week 6
 
-- IOS: Login page
-- IOS: Sign up page
-- IOS: Main menu page
-- Android: Login page
-- Android: Sign up page
-- Android: Main menu page
+- Login page (IOS, Android)
+- Sign up page (IOS, Android)
+- Main menu page (IOS, Android)
 
 # Week 7
 
-- IOS: Sidebar
-- IOS: About page
-- IOS: Random page
-- IOS: Add "relate items" feature into the search system
-- Android: Sidebar
-- Android: About page
-- Android: Random page
-- Android: Add "relate items" feature into the search system
+- Sidebar (IOS, Android)
+- About page (IOS, Android)
+- Help page (IOS, Android)
+- Search engine (IOS, Android)
+- Add "relate items" feature into the search engine (IOS, Android)
 
 # Week 8
 
@@ -30,10 +24,16 @@ That is some issues occur when upload the coding to the old GitHub, then i chang
 - Sign out option (IOS, Android)
 - SQLite database (IOS, Android)
 - User profile (IOS, Android)
-- Fill up the vegetable page item details (IOS, Android)
+- Put the vegetable item into the vegetable page (IOS, Android)
 
 # Week 9
 - Chat page (IOS, Android)
-- In the vegetable page, the search system only can search out the vegetable items (IOS, Android)
-- In the fruit page, the seach system only can seach out the fruit items (IOS, Android)
-- The search system can display the item's picture (IOS, Android)
+- In the vegetable page, the search engine only can search out the vegetable items (IOS, Android)
+- In the fruit page, the seach engine only can seach out the fruit items (IOS, Android)
+- The search engine can display the item's picture (IOS, Android)
+
+# Week 9
+- Renew the page icon (IOS, Android)
+- Fill up the vegetable items details (IOS, Android)
+- FIll up the friut items details (IOS, Android)
+- View selected item in the vegetable and fruit page (IOS, Android)
